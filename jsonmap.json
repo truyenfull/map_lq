@@ -28,5 +28,11 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_xi_mang.zip",
       "map_name":"Xi măng",
       "map_size":"7.23MB"
+   },
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_xi_mang.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hoa_anh_dao.zip",
+      "map_name":"Hoa anh đào",
+      "map_size":"16.4MB"
    }
 ]
