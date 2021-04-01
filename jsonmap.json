@@ -47,4 +47,11 @@
       "map_name":"Vụ mùa gốc",
       "map_size":"15.3MB"
    }
+   ,
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/vu_mua_goc.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_minecreaf.zip",
+      "map_name":"Minecref",
+      "map_size":"16.8MB"
+   }
 ]
