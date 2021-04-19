@@ -1,0 +1,776 @@
+[
+   {
+      "id_soldier":1,
+      "nam_soldier":"Moren",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/5923c73f61ed69babd9b399155cbacb25a3a3212107d6.jpg",
+      "percent_win":55.2,
+      "percent_pick":0.4,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":2,
+      "nam_soldier":"Fennik",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/ab3f51a9731ffa085fd56a87139b8a775860e26837e19.jpg",
+      "percent_win":53.2,
+      "percent_pick":0.9,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":3,
+      "nam_soldier":"Slimz",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/122fe2fc229ca42dcbe6946db07ccd435b345a87702a1.png",
+      "percent_win":52.8,
+      "percent_pick":0.7,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":4,
+      "nam_soldier":"Wisp",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/f3a7fe63c79a26ea789064ea3361781f5aec0b6084aa0.jpg",
+      "percent_win":51.6,
+      "percent_pick":0.8,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":5,
+      "nam_soldier":"Tel'Annas",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/5064b1bbcb8dcac94f88292537d6c35459e96577aa90c.jpg",
+      "percent_win":50.8,
+      "percent_pick":3.4,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":6,
+      "nam_soldier":"Capheny",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/5c3212f3d7a6f95ad04a309d4d1f340a5ca5c222bda91.jpg",
+      "percent_win":50.3,
+      "percent_pick":1,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":7,
+      "nam_soldier":"Violet",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/f91d8c95b3b0c11c6fe5b8ac20e48cbd5d25650254d57.jpg",
+      "percent_win":49.8,
+      "percent_pick":2.3,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":8,
+      "nam_soldier":"Elsu",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/449789489494c0f108a3db5db3098e585bc98d17e666b.jpg",
+      "percent_win":49.7,
+      "percent_pick":1.2,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":9,
+      "nam_soldier":"Joker",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/bc30b34e9e9e13375efe9159d280586259d1aa29c6839.jpg",
+      "percent_win":48.9,
+      "percent_pick":0.4,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":10,
+      "nam_soldier":"Hayate",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/02c8e3d1db8ee8f32913b478884f33e05c8f254a7686f.jpg",
+      "percent_win":48.9,
+      "percent_pick":1.1,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":11,
+      "nam_soldier":"Valhein",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/4b36c6e5e2d1ce9dd9e2841d2902043c5ee04efeb2f2d.jpg",
+      "percent_win":48.4,
+      "percent_pick":7.6,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":12,
+      "nam_soldier":"Lindis",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/4b2928793044600d4ca60ec95fb31f205a73d88927ca0.jpg",
+      "percent_win":48.2,
+      "percent_pick":0.2,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":13,
+      "nam_soldier":"Yorn",
+      "id_category_soldier":6,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/44086d0bc26a170b21038a7cbf9413365c4938b95b2f9.jpg",
+      "percent_win":47.7,
+      "percent_pick":2.2,
+      "name_category_soldier":"Xạ thủ"
+   },
+   {
+      "id_soldier":14,
+      "nam_soldier":"Airi",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/cc2dc1cf21b2ddc5a4b1d0f8c70b97285965d69279f76.jpg",
+      "percent_win":53.2,
+      "percent_pick":1.5,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":15,
+      "nam_soldier":"Batman",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/36c65a1b6446ee0b34260fa7cbb9a04c5955d4504884a.jpg",
+      "percent_win":50,
+      "percent_pick":0.7,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":16,
+      "nam_soldier":"Ngộ không",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/aea009bf921dd684d19ee76c0c1441215ef5c39d1bd6b.jpg",
+      "percent_win":49.5,
+      "percent_pick":3.3,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":17,
+      "nam_soldier":"Butterfly",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/769a9fe6cb9b9725127a094bb6dd36545f0ed6543592e.jpg",
+      "percent_win":49,
+      "percent_pick":2.6,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":18,
+      "nam_soldier":"Nakroth",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/c7b840bdacd7e5a8b83af72ccd9ca1815ec64fdc5ffeb.jpg",
+      "percent_win":48.9,
+      "percent_pick":3.1,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":19,
+      "nam_soldier":"Murad",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/7dba55e7f433ab78ac6bd2cdfeec13495983e12234646.jpg",
+      "percent_win":47.9,
+      "percent_pick":0.9,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":20,
+      "nam_soldier":"Enzo",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/81d7c827262287ce87639f3bfa048f5a5d149a6d57109.jpg",
+      "percent_win":46.8,
+      "percent_pick":0.1,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":21,
+      "nam_soldier":"Kriknak",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/0dac2ca73eb28c03de2e43f85e868df458e710b5baeb4.png",
+      "percent_win":45.9,
+      "percent_pick":0.5,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":22,
+      "nam_soldier":"Quillen",
+      "id_category_soldier":5,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/f6004ed060dcff380fc5b13574986bbc5bf778bc90556.jpg",
+      "percent_win":45.9,
+      "percent_pick":0.6,
+      "name_category_soldier":"Sát thủ"
+   },
+   {
+      "id_soldier":23,
+      "nam_soldier":"Roxie",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/83137c567582de1ef1fe046529477f2f5b5e8e54882f2.jpg",
+      "percent_win":52.5,
+      "percent_pick":0.2,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":24,
+      "nam_soldier":"Mina",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/09d93eb47007482254115f99686694d25847d3e83fdf4.png",
+      "percent_win":51.7,
+      "percent_pick":0.9,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":25,
+      "nam_soldier":"Arum",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/7faf7c96faeb8721b936e323becb57265afea9c3c8b28.jpg",
+      "percent_win":51,
+      "percent_pick":0.7,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":26,
+      "nam_soldier":"Baldum",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/e751e70db18557783c2d23c9e5383e095b6bb947482b1.jpg",
+      "percent_win":50.8,
+      "percent_pick":0.4,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":27,
+      "nam_soldier":"Omega",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/cb7b811e7978882aefac079de6c93daf5fbcc5716f8ad.jpg",
+      "percent_win":49.7,
+      "percent_pick":0.3,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":28,
+      "nam_soldier":"Y'Bneth",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/173809566ede28d1fee0731e43a1912c5b98deb97c82f.jpg",
+      "percent_win":49.2,
+      "percent_pick":0.1,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":29,
+      "nam_soldier":"Cresht",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/04b0a1140d89b8ef0cd4a655753bbb895c4938662bc9f.jpg",
+      "percent_win":49,
+      "percent_pick":0.3,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":30,
+      "nam_soldier":"Xeniel",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/a56369ce162e24700689527a54d89b755a179e8628f39.jpg",
+      "percent_win":48.8,
+      "percent_pick":0.1,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":31,
+      "nam_soldier":"Taara",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/f69423f533b12cbcd8ab15a7127e1e445e79e0b77e4ec.jpg",
+      "percent_win":48.8,
+      "percent_pick":0.9,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":32,
+      "nam_soldier":"Thane",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/71e488144b7dc9f13d40321ce0556efc5847d39f2071a.png",
+      "percent_win":48.8,
+      "percent_pick":0.3,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":33,
+      "nam_soldier":"Toro",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/ffd2c29391b67831e97a0b16534a65d45ef5921c2bcb4.jpg",
+      "percent_win":47.8,
+      "percent_pick":1.9,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":34,
+      "nam_soldier":"Wiro Sableng",
+      "id_category_soldier":4,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/61015ea8f83c0a833833297bb927ccd35be3c4834cd26.jpg",
+      "percent_win":44.9,
+      "percent_pick":0.1,
+      "name_category_soldier":"Đỡ đòn"
+   },
+   {
+      "id_soldier":35,
+      "nam_soldier":"Payna",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/7a32a6089f57696e70046fd280777e9d58b8e3304a500.png",
+      "percent_win":52.3,
+      "percent_pick":0.2,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":36,
+      "nam_soldier":"Lumburr",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/119dc57d5a3a59b520b93a42301ffb135e7dedbf1c28a.jpg",
+      "percent_win":51.7,
+      "percent_pick":0.1,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":37,
+      "nam_soldier":"Alice",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/b9dd8e24c0fbad107475f6e31f5e36365847d373da15b.png",
+      "percent_win":51.6,
+      "percent_pick":0.7,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":38,
+      "nam_soldier":"Annette",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/17f4f562b9121128b4aff9e7b41644185f041e7796455.jpg",
+      "percent_win":50.6,
+      "percent_pick":0.2,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":39,
+      "nam_soldier":"Teemee",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/d048143eef92ff2734c99f53b46e19db5a4dabef8a0fe.jpg",
+      "percent_win":48.8,
+      "percent_pick":0.1,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":40,
+      "nam_soldier":"Grakk",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/040403525e2882c0e3a6794c31976c89585357ba19a35.png",
+      "percent_win":48.3,
+      "percent_pick":2.9,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":41,
+      "nam_soldier":"Chaugnar",
+      "id_category_soldier":3,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/3eb3c69cef807c5706a98cc4b799619b5b3456990e650.jpg",
+      "percent_win":47.6,
+      "percent_pick":0.1,
+      "name_category_soldier":"Trợ thủ"
+   },
+   {
+      "id_soldier":42,
+      "nam_soldier":"Aleister",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/18f6dcc1becb6cb0814d12676e657b655b345cb763b00.png",
+      "percent_win":52.6,
+      "percent_pick":0.5,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":43,
+      "nam_soldier":"Preyta",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/f2f8893606262e7c0547c4f47f670995590bf38eabfc8.jpg",
+      "percent_win":52,
+      "percent_pick":0.1,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":44,
+      "nam_soldier":"Veera",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/07bacf5da3930066d2d6255859ca70cc5cd3d3bbe5816.jpg",
+      "percent_win":51.7,
+      "percent_pick":2.2,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":45,
+      "nam_soldier":"Sephera",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/eef053fb25793d536185559e8bf5a82d5c132caaa102e.jpg",
+      "percent_win":51.4,
+      "percent_pick":0.2,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":46,
+      "nam_soldier":"Gildur",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/7f729105a4bc7bb0565f2005d351e7555847d366941a2.png",
+      "percent_win":50.6,
+      "percent_pick":3.5,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":47,
+      "nam_soldier":"Mganga",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/053654897539713c86a745376bc8e8125d25652cf33f0.jpg",
+      "percent_win":50.5,
+      "percent_pick":2.2,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":48,
+      "nam_soldier":"Natalya",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/a450850337d6a5d19250b1d1e39692f15eccc530c915e.jpg",
+      "percent_win":49.7,
+      "percent_pick":3.4,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":49,
+      "nam_soldier":"Azzen'Ka",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/b95b8845049ddb9fdcc3c38129de7d6a5c49384fd555b.jpg",
+      "percent_win":49.6,
+      "percent_pick":0.2,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":50,
+      "nam_soldier":"Marja",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/1303e95b29e784888ae02d97848aed775b2b84e037277.jpg",
+      "percent_win":49.5,
+      "percent_pick":0.1,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":51,
+      "nam_soldier":"Ilumia",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/7ae8bcd437d0787c9f3bb9aa54907ede5ef5e858aff14.jpg",
+      "percent_win":49.4,
+      "percent_pick":0.1,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":52,
+      "nam_soldier":"The Flash",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/dbb8d783c711cc0d2961e72cc8ed122c5ad9685dd58c1.jpg",
+      "percent_win":49.3,
+      "percent_pick":0.5,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":53,
+      "nam_soldier":"Kahlii",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/fe313975ef498b33a7bf995a05d6f8b75847d42a59918.png",
+      "percent_win":49.2,
+      "percent_pick":0.3,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":54,
+      "nam_soldier":"Krixi",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/7f04b1fd7f0520dd1ccbd1caad6faf1a5847d3f72e85b.png",
+      "percent_win":49,
+      "percent_pick":2.4,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":55,
+      "nam_soldier":"Tulen",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/07210c9e529faa7766ba324bd86b75165a81722f3eab8.jpg",
+      "percent_win":48.7,
+      "percent_pick":0.7,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":56,
+      "nam_soldier":"Ignis",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/a2c0e8ef7742c926f9bb10fbab12b03d5970da7009dc1.jpg",
+      "percent_win":48.1,
+      "percent_pick":0.2,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":57,
+      "nam_soldier":"Jinna",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/f3b0dc924b34f76c9265adb57758817a5b752794c417a.jpg",
+      "percent_win":48.1,
+      "percent_pick":0.1,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":58,
+      "nam_soldier":"Điêu Thuyền",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/d93ee5059a95c391548419e69b6b9d1a5d2564f4eba89.jpg",
+      "percent_win":47.9,
+      "percent_pick":0.8,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":59,
+      "nam_soldier":"Liliana",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/28b06811cb721a8ecb28d6a1db401e745a9fd3a39ae40.jpg",
+      "percent_win":47.3,
+      "percent_pick":0.6,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":60,
+      "nam_soldier":"Raz",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/6b79035779ab9195c76d91b3f2e7ca79591e685783160.jpg",
+      "percent_win":47.1,
+      "percent_pick":3.7,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":61,
+      "nam_soldier":"Lauriel",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/18d4327ac2e366a736a060be082bbbef5943917dab8d8.jpg",
+      "percent_win":46.8,
+      "percent_pick":0.3,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":62,
+      "nam_soldier":"D'Arcy",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/903191ed8212c2c6c91f1f6f0a677a565c6102d8ecf4a.jpg",
+      "percent_win":46.7,
+      "percent_pick":0.2,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":63,
+      "nam_soldier":"Zill",
+      "id_category_soldier":2,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/b1a6c37ad9558ac5767e25ded5b6fcf759966ca7c1d43.jpg",
+      "percent_win":45.5,
+      "percent_pick":0.8,
+      "name_category_soldier":"Pháp sư"
+   },
+   {
+      "id_soldier":64,
+      "nam_soldier":"Max",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/9b5e17b2059b1e710663e1ec542f254b5acdd5b022003.jpg",
+      "percent_win":54.1,
+      "percent_pick":0.2,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":65,
+      "nam_soldier":"Wonder Woman",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/108ae03944a6aa1eb4313a2baa64efcd5a0e6c1551db1.jpg",
+      "percent_win":52.6,
+      "percent_pick":0.2,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":66,
+      "nam_soldier":"Kil'Groth",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/4dd76a3f07965ade3c71b89874b64b935a29291ca4a11.gif",
+      "percent_win":51.9,
+      "percent_pick":1.4,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":67,
+      "nam_soldier":"Lữ Bố",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/ecbf2434edb2b16cc0d5b286a88ab4335d2565110472b.jpg",
+      "percent_win":51.9,
+      "percent_pick":1.3,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":68,
+      "nam_soldier":"Arduin",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/8ac7305489de39cfaa10eb13f5a7824559bb7d0c7f2cc.jpg",
+      "percent_win":51.5,
+      "percent_pick":0.5,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":69,
+      "nam_soldier":"Superman",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/3310a88f1a679a6940e2f6e0da287c415a02b6ac709e0.jpg",
+      "percent_win":51.4,
+      "percent_pick":0.4,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":70,
+      "nam_soldier":"Suka",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/d5166c51f37b444810f2ae3df056920d5c4938c59a482.jpg",
+      "percent_win":50.8,
+      "percent_pick":2.8,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":71,
+      "nam_soldier":"Rourke",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/749d47479eb9744d656b5e7c59f213555b1914bf90d29.jpg",
+      "percent_win":50.8,
+      "percent_pick":0.2,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":72,
+      "nam_soldier":"Ormarr",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/fd2a04f2b129ef58988f2d311eac83e45b6d0919e7d90.jpg",
+      "percent_win":50.5,
+      "percent_pick":0.1,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":73,
+      "nam_soldier":"Errol",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/5067bb53ba6435e11cc8777645d8de115cc136a9ca3b3.jpg",
+      "percent_win":50.2,
+      "percent_pick":1.2,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":74,
+      "nam_soldier":"Astrid",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/91a969152f4340611e12e4eeb96a9aa259e021a48fbe9.jpg",
+      "percent_win":50,
+      "percent_pick":0.1,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":75,
+      "nam_soldier":"Omen",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/00a78d4f7222a428cd06b45252f88a565a73df2c56ad8.jpg",
+      "percent_win":49.8,
+      "percent_pick":0.3,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":76,
+      "nam_soldier":"Amily",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/65b8d8e674af00ee4ecbb4030e8fac385b88ea13824d3.jpg",
+      "percent_win":49.8,
+      "percent_pick":1.1,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":77,
+      "nam_soldier":"Zephys",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/de94a53ea6836ee1e45a3f01d1f2d6375847d0d32fd30.png",
+      "percent_win":48.9,
+      "percent_pick":0.6,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":78,
+      "nam_soldier":"Arthur",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/006b0a2f836305b93fe0ba0375a5d7a559b28f3254a08.jpg",
+      "percent_win":48.8,
+      "percent_pick":1.9,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":79,
+      "nam_soldier":"Richter",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/e6e08d2cc322676442cf420e4aefb6d85bd7d7620754b.jpg",
+      "percent_win":48.7,
+      "percent_pick":0.3,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":80,
+      "nam_soldier":"Maloch",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/752c4c954aa4a8f05a1b0be72aa5dc895c0def4d435aa.jpg",
+      "percent_win":48.4,
+      "percent_pick":1.3,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":81,
+      "nam_soldier":"Ryoma",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/2f3fe854b98e664415c024a1e9f0396259d9b9ddb3992.jpg",
+      "percent_win":48.3,
+      "percent_pick":0.6,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":82,
+      "nam_soldier":"Skud",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/2b128ebef47ab5a8a2ae9d3db754cd585ee5e21149f62.jpg",
+      "percent_win":48.3,
+      "percent_pick":0.4,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":83,
+      "nam_soldier":"Triệu Vân",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/d7088075d6e144e11f476782718320865d256521539c4.jpg",
+      "percent_win":48.3,
+      "percent_pick":3.2,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":84,
+      "nam_soldier":"Veres",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/46c5f246040b9e750779aa41ffcbeaa15c3f06d63ce24.jpg",
+      "percent_win":47.4,
+      "percent_pick":0.4,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":85,
+      "nam_soldier":"Florentino",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/9527c1cbad1c0656d0a4adf1dcec38e35c25f62d77d67.jpg",
+      "percent_win":46.8,
+      "percent_pick":1.3,
+      "name_category_soldier":"Đấu sĩ"
+   },
+   {
+      "id_soldier":86,
+      "nam_soldier":"Yena",
+      "id_category_soldier":1,
+      "url_thumbnail":"https://lienquan.garena.vn/files/champion/icon/61fa157164bf9d99e65bf40b802fb5745cfe1cd72c467.jpg",
+      "percent_win":46.7,
+      "percent_pick":0.2,
+      "name_category_soldier":"Đấu sĩ"
+   }
+]
