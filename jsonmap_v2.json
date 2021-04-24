@@ -3,63 +3,84 @@
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_goc.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_default.zip",
       "map_name":"Gốc - Mặc định",
-       "vip":false,
+      "vip":false,
       "map_size":"28.8MB"
+   },
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/hoa_anh_dao_v2.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/hoa_anh_dao_v2.zip",
+      "map_name":"Hoa Anh Đào - V2 - Full HDR",
+      "vip":true,
+      "map_size":"17.7MB"
+   },
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/goc_v2.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/goc_v2.zip",
+      "map_name":"Gốc V2 - Full HDR",
+      "vip":false,
+      "map_size":"20.7MB"
+   },
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_15_hdr.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_15_full_hdr.zip",
+      "map_name":"15 Full HDR",
+      "vip":true,
+      "map_size":"19.2MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/dem_bat_tan.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/man_dem_u_am.zip",
       "map_name":"Đêm bất tận",
-     "vip":true,
+      "vip":true,
       "map_size":"18.3MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_hac_am.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hac_am.zip",
       "map_name":"Hắc ám",
-       "vip":false,
+      "vip":false,
       "map_size":"23.3MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_lien_minh_huyen_thoai.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_lmht.zip",
       "map_name":"Liên minh huyền thoại",
-       "vip":false,
+      "vip":false,
       "map_size":"11.9MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_ma_mi.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_ma_mi.zip",
       "map_name":"Ma mị",
-       "vip":false,
+      "vip":false,
       "map_size":"17.1MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_thao_nguyen_xanh.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_thao_nguyen_xanh.zip",
       "map_name":"Thảo nguyên xanh",
-       "vip":false,
+      "vip":false,
       "map_size":"24.9MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_xi_mang.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_xi_mang.zip",
       "map_name":"Xi măng",
-       "vip":false,
+      "vip":false,
       "map_size":"7.23MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_hoa_anh_dao.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hoa_anh_dao.zip",
       "map_name":"Hoa anh đào",
-       "vip":false,
+      "vip":false,
       "map_size":"16.4MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/vu_mua_goc.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_vu_mua_goc.zip",
       "map_name":"Vụ mùa gốc",
-       "vip":true,
+      "vip":true,
       "map_size":"15.3MB"
    }
 ]
