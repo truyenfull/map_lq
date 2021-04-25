@@ -1,0 +1,18 @@
+[
+   {
+      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/img/ic_app_recommend.png",
+      "title":"Text On Photo - Chèn Chữ Vào Ảnh - Ảnh Nghệ Thuật",
+      "content":"Nhỏ bé làm nên điều kỳ diệu",
+      "picture":"https://github.com/truyenfull/map_lq/raw/main/img/ic_banner_recommend.png",
+      "packageName":"com.docs.sn.textonphoto",
+      "local":"VN"
+   },
+   {
+      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/img/ic_app_recommend.png",
+      "title":"Text On Photo - Insert Text In Photo - Artwork",
+      "content":"Small makes miracles",
+      "picture":"https://github.com/truyenfull/map_lq/raw/main/img/ic_banner_recommend.png",
+      "packageName":"com.docs.sn.textonphoto",
+      "local":"another"
+   }
+]
