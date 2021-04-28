@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="map">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/map/hoat_hinh.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/co_dien_xanh.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_ma_mi.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_thao_nguyen_xanh.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/man_dem_u_am.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/hoa_anh_dao_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_15_full_hdr.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_lmht.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_vu_mua_goc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_hac_am.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_tet.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_dat_vang.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_hoa_anh_dao.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_minecraft.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_xi_mang.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/goc_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_cuc_tim.zip!/" />
+      <root url="jar://$PROJECT_DIR$/map/map_default.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
