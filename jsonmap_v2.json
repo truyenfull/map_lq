@@ -1,22 +1,29 @@
 [
    {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_dat_nen.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_dat_nen.zip",
+      "map_name":"Đất vàng - V2 - Full HDR",
+      "vip":true,
+      "map_size":"21.4MB"
+   },
+   {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_minecraft.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_minecraft.zip",
-      "map_name":"Minecraft",
+      "map_name":"Minecraft - Đặc biệt",
       "vip":true,
       "map_size":"16.8MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_dat_vang.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_dat_vang.zip",
-      "map_name":"Đất vàng",
+      "map_name":"Đất vàng - Full HDR",
       "vip":true,
       "map_size":"33.8MB"
    },
    {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_cuc_tim.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_cuc_tim.zip",
-      "map_name":"Cực tím",
+      "map_name":"Cực tím - Full HDR",
       "vip":true,
       "map_size":"16.6MB"
    },
