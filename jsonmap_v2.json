@@ -7,6 +7,20 @@
       "map_size":"28.8MB"
    },
    {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/co_dien_xanh.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/co_dien_xanh.zip",
+      "map_name":"Cổ điển xanh - HDR",
+      "vip":true,
+      "map_size":"22.7MB"
+   },
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/hoat_hinh.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/hoat_hinh.zip",
+      "map_name":"Hoạt hình",
+      "vip":false,
+      "map_size":"18.3MB"
+   },
+   {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/hoa_anh_dao_v2.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/hoa_anh_dao_v2.zip",
       "map_name":"Hoa Anh Đào - V2 - Full HDR",
@@ -38,7 +52,7 @@
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_hac_am.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hac_am.zip",
       "map_name":"Hắc ám",
-      "vip":false,
+      "vip":true,
       "map_size":"23.3MB"
    },
    {
