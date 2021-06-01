@@ -1,10 +1,28 @@
 [
    {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_hoa_rung.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hoa_rung.zip",
+      "map_name":"Hoa Rừng - HDR",
+      "vip":true,
+      "download":30,
+      "time_ceate":"17:52 - 01/06/2021",
+      "map_size":"20.47MB"
+   },
+   {
+      "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/map_mua_he.jpg",
+      "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_mua_he.zip",
+      "map_name":"Mùa Hè",
+      "vip":false,
+      "download":70,
+      "time_ceate":"17:41 - 01/06/2021",
+      "map_size":"21.08MB"
+   },
+   {
       "map_img":"https://github.com/truyenfull/map_lq/raw/main/img/mau_co_ban.jpg",
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_mau_co_ban.zip",
       "map_name":"Màu Cơ Bản - HDR",
       "vip":true,
-      "download":658,
+      "download":1080,
       "time_ceate":"11:36 - 11/05/2021",
       "map_size":"14.4MB"
    },
@@ -13,7 +31,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/vuong_gia_vinh_dieu.zip",
       "map_name":"Bương Giả Vinh Diệu - HDR",
       "vip":false,
-      "download":991,
+      "download":2310,
       "time_ceate":"11:26 - 11/05/2021",
       "map_size":"21.4MB"
    },
@@ -22,7 +40,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/hoa_anh_dao_co_non.zip",
       "map_name":"Hoa Anh Đào Cỏ Non HDR - Siêu Phẩm",
       "vip":true,
-      "download":1453,
+      "download":1653,
       "time_ceate":"12:35 - 06/05/2021",
       "map_size":"28.8MB"
    },
@@ -31,7 +49,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/tiec_bai_bien.zip",
       "map_name":"Tiệc bãi biển HDR",
       "vip":false,
-      "download":4512,
+      "download":5512,
       "time_ceate":"12:47 - 06/05/2021",
       "map_size":"17.7MB"
    },
@@ -40,7 +58,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_dat_nen.zip",
       "map_name":"Đất vàng - V2 - Full HDR",
       "vip":true,
-      "download":901,
+      "download":1065,
       "time_ceate":"23:57 - 28/04/2021",
       "map_size":"21.4MB"
    },
@@ -49,7 +67,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_minecraft.zip",
       "map_name":"Minecraft - Đặc biệt",
       "vip":true,
-      "download":1562,
+      "download":1662,
       "time_ceate":"23:30 - 28/04/2021",
       "map_size":"16.8MB"
    },
@@ -58,7 +76,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_dat_vang.zip",
       "map_name":"Đất vàng - Full HDR",
       "vip":true,
-      "download":809,
+      "download":1009,
       "time_ceate":"23:30 - 28/04/2021",
       "map_size":"33.8MB"
    },
@@ -67,7 +85,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_cuc_tim.zip",
       "map_name":"Cực tím - Full HDR",
       "vip":true,
-      "download":1413,
+      "download":1513,
       "time_ceate":"23:30 - 28/04/2021",
       "map_size":"16.6MB"
    },
@@ -76,7 +94,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_default.zip",
       "map_name":"Gốc - Mặc định",
       "vip":false,
-      "download":3241,
+      "download":4241,
       "time_ceate":"16:14 - 27/04/2021",
       "map_size":"28.8MB"
    },
@@ -94,7 +112,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/hoat_hinh.zip",
       "map_name":"Hoạt hình",
       "vip":false,
-      "download":3121,
+      "download":5121,
       "time_ceate":"16:14 - 27/04/2021",
       "map_size":"18.3MB"
    },
@@ -103,7 +121,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/hoa_anh_dao_v2.zip",
       "map_name":"Hoa Anh Đào - V2 - Full HDR",
       "vip":true,
-      "download":1231,
+      "download":1331,
       "time_ceate":"16:14 - 27/04/2021",
       "map_size":"17.7MB"
    },
@@ -112,7 +130,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/goc_v2.zip",
       "map_name":"Gốc V2 - Full HDR",
       "vip":false,
-      "download":5231,
+      "download":5931,
       "time_ceate":"16:14 - 27/04/2021",
       "map_size":"20.7MB"
    },
@@ -130,7 +148,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/man_dem_u_am.zip",
       "map_name":"Đêm bất tận",
       "vip":true,
-      "download":1041,
+      "download":1141,
       "time_ceate":"01:57 - 25/04/2021",
       "map_size":"18.3MB"
    },
@@ -139,7 +157,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hac_am.zip",
       "map_name":"Hắc ám",
       "vip":true,
-      "download":1421,
+      "download":1491,
       "time_ceate":"09:50 - 22/04/2021",
       "map_size":"23.3MB"
    },
@@ -148,7 +166,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_lmht.zip",
       "map_name":"Liên minh huyền thoại",
       "vip":false,
-      "download":5245,
+      "download":6245,
       "time_ceate":"09:50 - 22/04/2021",
       "map_size":"11.9MB"
    },
@@ -157,7 +175,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_ma_mi.zip",
       "map_name":"Ma mị",
       "vip":true,
-      "download":1313,
+      "download":1413,
       "time_ceate":"15:15 - 20/04/2021",
       "map_size":"17.1MB"
    },
@@ -166,7 +184,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_thao_nguyen_xanh.zip",
       "map_name":"Thảo nguyên xanh",
       "vip":false,
-      "download":4352,
+      "download":5352,
       "time_ceate":"15:15 - 20/04/2021",
       "map_size":"24.9MB"
    },
@@ -175,7 +193,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_xi_mang.zip",
       "map_name":"Xi măng",
       "vip":false,
-      "download":5412,
+      "download":6412,
       "time_ceate":"18:15 - 04/04/2021",
       "map_size":"7.23MB"
    },
@@ -184,7 +202,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_hoa_anh_dao.zip",
       "map_name":"Hoa anh đào",
       "vip":false,
-      "download":3412,
+      "download":4412,
       "time_ceate":"18:35 - 01/04/2021",
       "map_size":"16.4MB"
    },
@@ -193,7 +211,7 @@
       "map_url":"https://github.com/truyenfull/map_lq/raw/main/map/map_vu_mua_goc.zip",
       "map_name":"Vụ mùa gốc",
       "vip":true,
-      "download":1241,
+      "download":1341,
       "time_ceate":"18:35 - 01/04/2021",
       "map_size":"15.3MB"
    }
