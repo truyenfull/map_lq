@@ -1,18 +1,18 @@
 [
    {
-      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/ic_logo_app.png",
-      "title":"SaveFrom Downloader - Tìm Và Tải Video Siêu Nhanh",
-      "content":"Tải bất kỳ video nào trên mạng xã hội, website nhanh chóng",
-      "picture":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/image_represent.png",
-      "packageName":"com.docs.sn.SaveFromDownload",
+      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/group_235.png",
+      "title":"StoryNow - Ứng dụng đọc truyện tốt nhất hiện nay",
+      "content":"Hơn 20 đầu truyện, thể loại cập nhật liên tục cho bạn đọc.",
+      "picture":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/banner_storynow.png",
+      "packageName":"com.docs.storynow",
       "local":"VN"
    },
    {
-      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/ic_logo_app.png",
-      "title":"SaveFrom Downloader - Find And Download Videos Super Fast",
-      "content":"Download any video on social networks, websites quickly",
-      "picture":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/image_represent.png",
-      "packageName":"com.docs.sn.SaveFromDownload",
+      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/group_235.png",
+      "title":"StoryNow - Ứng dụng đọc truyện tốt nhất hiện nay",
+      "content":"Hơn 20 đầu truyện, thể loại cập nhật liên tục cho bạn đọc.",
+      "picture":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/banner_storynow.png",
+      "packageName":"com.docs.storynow",
       "local":"another"
    }
 ]
