@@ -2015,6 +2015,11 @@
       "urlFps":"https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/samsung%20SM-A115F.bytes"
    },
    {
+      "nameFps":"samsung SM-A002F.bytes",
+      "nameLowerFps":"samsungsma002fbytes",
+      "urlFps":"https:\/\/github.com\/truyenfull\/fps60/raw\/main\/samsung%20SM-A022F.bytes"
+   },
+   {
       "nameFps":"samsung SM-A207F.bytes",
       "nameLowerFps":"samsungsma207fbytes",
       "urlFps":"https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/samsung%20SM-A207F.bytes"
@@ -2563,6 +2568,11 @@
       "nameFps":"vivo vivo Y85A.bytes",
       "nameLowerFps":"vivovivoy85abytes",
       "urlFps":"https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/vivo%20vivo%20Y85A.bytes"
+   },
+   {
+      "nameFps":"vivo vivo Y81S.bytes",
+      "nameLowerFps":"vivovivoy81sbytes",
+      "urlFps":"https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/vivo%20vivo%20Y81S.bytes"
    },
    {
       "nameFps":"vsmart Bee 3.bytes",
