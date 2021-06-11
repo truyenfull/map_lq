@@ -1,11 +1,42 @@
 [
   {
+    "map_img": "https://github.com/truyenfull/map_lq/raw/main/img/map_thuy_cung.jpg",
+    "map_url": "https://github.com/truyenfull/map_lq/raw/main/map/map_thuy_cung.zip",
+    "map_name": "Thủy Cung - HDR",
+    "vip": true,
+    "show_ads": false,
+    "download": 10,
+    "time_ceate": "17:57 - 11/06/2021",
+    "map_size": "18.55MB"
+  },
+
+  {
+    "map_img": "https://github.com/truyenfull/map_lq/raw/main/img/hoat_hoa.jpg",
+    "map_url": "https://github.com/truyenfull/map_lq/raw/main/map/map_hoat_hoa.zip",
+    "map_name": "Hoạt Họa - HDR",
+    "vip": true,
+    "show_ads": true,
+    "download": 10,
+    "time_ceate": "17:57 - 11/06/2021",
+    "map_size": "18.01MB"
+  },
+  {
+    "map_img": "https://github.com/truyenfull/map_lq/raw/main/img/map_cau_vong.jpg",
+    "map_url": "https://github.com/truyenfull/map_lq/raw/main/map/map_cau_vong.zip",
+    "map_name": "Cầu Vồng - HDR",
+    "vip": true,
+    "show_ads": true,
+    "download": 11,
+    "time_ceate": "17:57 - 11/06/2021",
+    "map_size": "18.55MB"
+  },
+  {
     "map_img": "https://github.com/truyenfull/map_lq/raw/main/img/map_da_nham.jpg",
     "map_url": "https://github.com/truyenfull/map_lq/raw/main/map/map_da_nham.zip",
     "map_name": "Đá 3D - HDR",
     "vip": false,
     "show_ads": false,
-    "download": 100,
+    "download": 490,
     "time_ceate": "19:22 - 10/06/2021",
     "map_size": "17.27MB"
   },
