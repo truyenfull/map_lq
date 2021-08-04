@@ -2623,5 +2623,10 @@
       "nameFps":"sonyso02j.bytes",
       "nameLowerFps":"sonyso02jbytes",
       "urlFps":"https:\/\/github.com\/truyenfull\/fps60/raw\/main\/Sony%20SO02j.bytes"
-   }
+   },
+   {
+      "nameFps":"samsung SM-A605K.bytes",
+      "nameLowerFps":"samsungsma605kbytes",
+      "urlFps":"https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/samsung%20SM-A605K.bytes"
+   },
 ]
