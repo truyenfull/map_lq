@@ -2632,11 +2632,16 @@
   {
     "nameFps": "xiaomi redmi 10.bytes",
     "nameLowerFps": "xiaomiredmi10bytes",
-    "urlFps": "https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/Xiami Redmi 10.bytes"
+    "urlFps": "https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/Xiami%Redmi%10.bytes"
   },
   {
     "nameFps": "redmi_21061119AG.bytes",
     "nameLowerFps": "redmi21061119AGbytes",
-    "urlFps": "https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/Xiami Redmi 10.bytes"
+    "urlFps": "https:\/\/github.com\/truyenfull\/fps60\/raw\/main\/Xiami%Redmi%10.bytes"
+  },
+  {
+    "nameFps": "OPPO OPPO R7kf.bytes",
+    "nameLowerFps": "oppooppor7kfbytes",
+    "urlFps": "https://github.com/truyenfull/fps60/raw/main/OPPO%20OPPO%20R7kf.bytes"
   }
 ]
