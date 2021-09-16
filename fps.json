@@ -2643,5 +2643,15 @@
     "nameFps": "OPPO OPPO R7kf.bytes",
     "nameLowerFps": "oppooppor7kfbytes",
     "urlFps": "https://github.com/truyenfull/fps60/raw/main/OPPO%20OPPO%20R7kf.bytes"
+  },
+  {
+    "nameFps": "Xiaomi Redmi Note 10.bytes",
+    "nameLowerFps": "Xiaomiredminote10bytes",
+    "urlFps": "https://github.com/truyenfull/fps60/raw/main/Xiaomi%20Redmi%20Note%2010.bytes"
+  },
+  {
+    "nameFps": "Redmi M2103K19G.bytes",
+    "nameLowerFps": "redmim2103k19gbytes",
+    "urlFps": "https://github.com/truyenfull/fps60/raw/main/Redmi%20M2103K19G.bytes"
   }
 ]
